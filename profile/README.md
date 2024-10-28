@@ -1,4 +1,4 @@
-## ¡Bienvenid@s al GitHub Team de Proyectos Terminales! 🚀
+## ¡Bienvenid@s al GitHub Team de Proyectos OpenSource! 🚀
 
 ### **¿Qué es nuestro GitHub Team?**  
 Nuestro equipo en GitHub está diseñado para reunir a estudiantes, egresados y entusiastas de la tecnología con el propósito de **compartir, mejorar y colaborar en proyectos de código abierto** desarrollados por los estudiantes. Creemos en el poder de la comunidad y la colaboración para impulsar el aprendizaje y la innovación. 💡🤝
